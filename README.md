@@ -1,0 +1,1 @@
+# metricas_loja_varejo
